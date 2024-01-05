@@ -9,5 +9,8 @@ En los metodos ordenar por:
 Las variables ordenar por:
   bool, int, QString QVariant and others.
 
+Inicializar todas la variables por ejemplo
+Qstring a = "";
+
 ## Nombres de Variables Miembro
 Para las variables miembro, es una buena práctica usar un prefijo (como `m_`) para distinguirlas de las variables locales y los parámetros de las funciones. Esto mejora la legibilidad y evita confusiones.
