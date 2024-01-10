@@ -22,4 +22,5 @@ Si el metodo o codigo es demasiado largo, separarlo en partes, por ejemplo:
                   "SELECT :statusActivity, :startDatetimeUtc, :startDatetimeUtc, :idUser, :idOperation, :idMachine, :idItem "
                   "WHERE (SELECT COUNT(*) FROM ITEM_REGISTER) >= 0");
 
+Todas las variables de ser posible deben estar inicializadas con un valor por defecto.
                   
