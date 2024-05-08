@@ -23,4 +23,8 @@ Si el metodo o codigo es demasiado largo, separarlo en partes, por ejemplo:
                   "WHERE (SELECT COUNT(*) FROM ITEM_REGISTER) >= 0");
 
 Todas las variables de ser posible deben estar inicializadas con un valor por defecto.
-                  
+
+
+## Proyecto Background
+
+                  poner modo admin esa ruta para proyectos gets ->  sudo chown sergio -R opt
