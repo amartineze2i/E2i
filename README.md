@@ -28,3 +28,6 @@ Todas las variables de ser posible deben estar inicializadas con un valor por de
 ## Proyecto Background
 
                   poner modo admin esa ruta para proyectos gets ->  sudo chown sergio -R opt
+
+## Proyecto Incimmet, prediccion de caida de rocas
+abri CMAKE-GUI -> proyecto Incimmet -> libreria teledyne -> Versioni MSVC 2015 , x86 -> Abrir en visual studio 2022 el example01.vcxproj de src del proyecto
